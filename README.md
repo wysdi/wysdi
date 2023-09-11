@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **wysdi/wysdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Halo! Hello! 👋
+I am Wayan currently the Software engineer at Vafe - Rocket Lab
+
+🔭 Mostly I code with PHP, JavaScript (React, Vue) and CSS. 
+
