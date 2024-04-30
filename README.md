@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Halo! Hello! 👋
-I am Wayan currently the Software engineer at Ofload
+I am Wayan currently working at Ofload as Software engineer
 
 🔭 Mostly I code with PHP, JavaScript (React, Vue) and CSS. 
 
